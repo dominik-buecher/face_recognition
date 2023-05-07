@@ -1,0 +1,25 @@
+dataset
+--Dominik
+--unknown
+
+data
+--train
+  --Dominik
+  --unknown
+--validation
+  --Dominik
+  --unknown
+--test
+  --Dominik
+  --unknown
+
+
+Vorgehen:
+--load Dominik images from original folder
+--resize images
+--save images in dataset directory
+
+--load unknown images from original folder
+--resize images
+--save images in dataset directory
+
